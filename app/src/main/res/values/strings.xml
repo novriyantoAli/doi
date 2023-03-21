@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Doi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="scan_voucher">Scan Voucher</string>
+    <string name="cetak_voucher">Cetak Voucher</string>
+    <string name="recent_activity">recent activity</string>
+    <string name="by_day">Harian</string>
+    <string name="by_month">Bulanan</string>
+</resources>
