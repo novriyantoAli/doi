@@ -9,4 +9,8 @@
     <string name="recent_activity">recent activity</string>
     <string name="by_day">Harian</string>
     <string name="by_month">Bulanan</string>
+<<<<<<< HEAD
+=======
+    <string name="bg_login_img_desc">login image</string>
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
 </resources>

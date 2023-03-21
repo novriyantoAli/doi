@@ -5,6 +5,13 @@ plugins {
     id 'dagger.hilt.android.plugin'
 }
 
+<<<<<<< HEAD
+=======
+ext {
+    BASE_URL = 'http://192.168.150.4:7119'
+}
+
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
 android {
     namespace 'id.insinyurdigital.doi'
     compileSdk 33
