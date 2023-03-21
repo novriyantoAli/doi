@@ -9,6 +9,11 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="colorAccent">#df875d</color>
+<<<<<<< HEAD
+=======
+    <color name="colorDarkPrimary">#13005A</color>
+    <color name="colorPrimary">#00337C</color>
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
 
     <color name="colorBackground">#1f212f</color>
     <color name="colorBorder">#27293A</color>

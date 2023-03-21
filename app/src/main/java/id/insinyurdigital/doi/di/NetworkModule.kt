@@ -48,7 +48,11 @@ object NetworkModule {
     @Provides
     fun provideRetrofit(gson: Gson, okHttpClient: OkHttpClient): Retrofit {
         return Retrofit.Builder()
+<<<<<<< HEAD
             .baseUrl()
+=======
+            .baseUrl("http://192.168.150.4:7119")
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
             .addConverterFactory(GsonConverterFactory.create(gson))
             .client(okHttpClient)
             .build()

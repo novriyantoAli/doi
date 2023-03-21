@@ -12,9 +12,16 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+<<<<<<< HEAD
     </style>
 
     <style name="AppThemeNoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar">
+=======
+        <item name="android:fontFamily">@font/quicksand</item>
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
         <item name="colorPrimary">@color/colorBackground</item>
         <item name="colorPrimaryDark">@color/colorBackground</item>
         <item name="colorAccent">@color/colorAccent</item>

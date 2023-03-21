@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ext {
     BASE_URL = 'http://192.168.150.4:7119'
 }
@@ -6,6 +7,9 @@ buildscript {
         BASE_URL = 'http://192.168.150.4:7119'
     }
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
+=======
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
 plugins {
     id 'com.android.application' version '7.0.2' apply false
     id 'com.android.library' version '7.0.2' apply false

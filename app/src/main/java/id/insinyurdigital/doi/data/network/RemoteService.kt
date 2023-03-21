@@ -1,5 +1,11 @@
 package id.insinyurdigital.doi.data.network
 
+<<<<<<< HEAD
+=======
+import id.insinyurdigital.doi.data.model.LoginRequest
+import id.insinyurdigital.doi.data.model.LoginResponse
+import id.insinyurdigital.doi.domain.model.UserDetail
+>>>>>>> Insyaallah selesai karena modal saya hanya pengetahuan
 import retrofit2.http.*
 
 interface RemoteService {
